@@ -15,3 +15,9 @@ It will be free to test, and free to use always.
 
 # wen ETA?
 eta son or latter. 
+
+# What still needs to be done?
+The whole thing. I know how I'm going to do it, but I don't have the urge to do it ATM.
+
+# wen ETA? wen ETA? wen ETA? wen ETA? wen ETA? wen ETA? wen ETA? wen ETA? why Block on Twitter?
+Yeah, don't spam me with questions on Twitter like that, or you get blocked. If you want to follow me to see how it's going, I'm @charbleach.
