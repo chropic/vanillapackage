@@ -1,14 +1,17 @@
 # vanillapackage
-VPK File Installer for Vitas without HENkaku.
+A .vpk/.psvimg File Installer that works through SilicaAndPina/Yifanlu's psvimagetools-frontend by using and replacing EasyInstallers.
 
-# How will it work? (The Concept)
-This application will work by signing a VPK of your choice (no pirating, please!) to your account (or spoofing it to 'appear' on the PS Store, who knows at this point) and installing it to your Vita. 
+# What will you be able to install with this?
+Essentially any extracted .VPK file or .psvimg file. To gain a mass amount of those files will however need a lot of file dumps.
 
-# How would you install it?
-Through a program like psvimgtools.
+# So I can install my 100% paid for Game BACKUPS?
+Most likely. It depends on how the inital testing goes.
 
-# What is it useful for?
-Installing apps like Adrenaline or Game BACKUPS(!) to your Vita without the need for HENkaku.
+# What versions of PS Vita Firmware will it be able to run on?
+My Vita is on 3.67, so it will run on 3.67 and possibly below that.
 
-# wen eta?
-Not anytime soon.
+# I have my credit card right here, how much is it?
+It will be free to test, and free to use always.
+
+# wen ETA?
+eta son or latter. 
